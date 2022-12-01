@@ -87,7 +87,7 @@ Astro Focus Kit is an app that helps you to deal with web procrastination and la
   ![image](https://user-images.githubusercontent.com/51006938/204977709-fd962829-9b59-42da-9faa-0b087e8754b6.png)
   
   - Lets say I have a pending task for today and try to access facebook
-    - You should be redirected to the block page
+    - I should be redirected to the block page
     
       ![image](https://user-images.githubusercontent.com/51006938/204978324-d40feece-6e83-4d03-893d-184bac286fe9.png)
     - You can choose to go back to tasks page and accept the block
