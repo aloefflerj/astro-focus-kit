@@ -91,7 +91,7 @@ Astro Focus Kit is an app that helps you to deal with web procrastination and la
     
       ![image](https://user-images.githubusercontent.com/51006938/204978324-d40feece-6e83-4d03-893d-184bac286fe9.png)
     - You can choose to go back to tasks page and accept the block
-    - Else you can choose to keep procrastinatin. In this case you should tell a reason on why you want to do that
+    - Else you can choose to keep procrastinating. In this case you should tell a reason on why you want to do that
     
       ![image](https://user-images.githubusercontent.com/51006938/204978578-1f9da780-1534-418b-a8c6-6551db6d447a.png)
      
