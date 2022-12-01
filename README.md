@@ -102,10 +102,10 @@ Astro Focus Kit is an app that helps you to deal with web procrastination and la
 #### Hope you like it 😉
 
 ### Development repos
-[Server](https://github.com/aloefflerj/astro-focus-kit-server)
+- [Server](https://github.com/aloefflerj/astro-focus-kit-server)
 
-[Client](https://github.com/aloefflerj/astro-focus-kit-client)
+- [Client](https://github.com/aloefflerj/astro-focus-kit-client)
 
-[Extension](https://github.com/aloefflerj/astro-focus-kit-chrome-extension)
+- [Extension](https://github.com/aloefflerj/astro-focus-kit-chrome-extension)
 
-[Environment](https://github.com/aloefflerj/astro-focus-kit-env)
+- [Environment](https://github.com/aloefflerj/astro-focus-kit-env)
