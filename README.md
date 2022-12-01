@@ -1,4 +1,4 @@
-# Astro Focus Kit
+# :star: Astro Focus Kit :star:
 ## Description
 Astro Focus Kit is an app that helps you to deal with web procrastination and lack of focus. It is both a chrome extension and a web app.
 - The chrome extension acts as a website blocker
@@ -99,9 +99,10 @@ Astro Focus Kit is an app that helps you to deal with web procrastination and la
     
       ![image](https://user-images.githubusercontent.com/51006938/204978878-3dba1e16-a30d-4082-af0a-b59506a3dfdb.png)
 
+#### Hope you like it 😉
 
-
-
-
-
-
+#### Development repos
+[Server](https://github.com/aloefflerj/astro-focus-kit-server)
+[Client](https://github.com/aloefflerj/astro-focus-kit-client)
+[Extension](https://github.com/aloefflerj/astro-focus-kit-chrome-extension)
+[Environment](https://github.com/aloefflerj/astro-focus-kit-env)
