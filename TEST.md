@@ -2,7 +2,7 @@
 ## Description
 This is a workflow to test all the application
 
-1. Register in the application and install the extension as described in [here](https://github.com/aloefflerj/astro-focus-kit#how-start-using-it)
+1. Register your user in the application and install the extension as described in [here](https://github.com/aloefflerj/astro-focus-kit#how-start-using-it)
 2. Log in to the extension
 
    ![image](https://user-images.githubusercontent.com/51006938/205223838-be5bac57-51e2-418d-8725-37ce0873148c.png)
