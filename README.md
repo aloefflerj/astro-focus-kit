@@ -7,16 +7,18 @@ Astro Focus Kit is an app that helps you to deal with web procrastination and la
 ## How start using it
 
 ### Production
-[**Register your account**]
+#### [**Register your account**]
 - Go to: [https://astro-focus-kit-client.vercel.app/register](https://astro-focus-kit-client.vercel.app/register) and register your account:
 
   ![image](https://user-images.githubusercontent.com/51006938/204972559-fde79bed-d2de-4721-90ab-ade59c1224d9.png)
 
-[**Install the Extension**]
+#### [**Install the Extension**]
 - Go to the [Chrome Web Extension](https://chrome.google.com/webstore) and search for `Astro Focus Kit`:
-![image](https://user-images.githubusercontent.com/51006938/205776840-3efe82bf-9822-411f-9f99-84130a488c3b.png)
+
+  ![image](https://user-images.githubusercontent.com/51006938/205776840-3efe82bf-9822-411f-9f99-84130a488c3b.png)
 
 - Click on `Add to Chrome`
+- All good to go, you can proceed to the section [Setting the Application](https://github.com/aloefflerj/astro-focus-kit/edit/main/README.md#setting-the-application)
 
 Alternatively, you can download the extension and load it manually:
 
@@ -42,11 +44,11 @@ Alternatively, you can download the extension and load it manually:
 
   ![image](https://user-images.githubusercontent.com/51006938/204975019-4d4404fb-5a30-4728-954c-38c80184b127.png)
 
-[**Setting the Application**]
-
 - A box displaying the extension info is supposed to show up
 
   ![image](https://user-images.githubusercontent.com/51006938/204975133-0585ef50-b213-41b0-a37d-3d3dae602530.png)
+
+#### [**Setting the Application**]
 
 - If, possible, pin the extension on chrome extension
 
