@@ -13,7 +13,7 @@ Astro Focus Kit is an app that helps you to deal with web procrastination and la
   ![image](https://user-images.githubusercontent.com/51006938/204972559-fde79bed-d2de-4721-90ab-ade59c1224d9.png)
 
 #### [**Install the Extension**]
-- Go to the [Chrome Web Extension](https://chrome.google.com/webstore) and search for `Astro Focus Kit`:
+- Go to the [Chrome Web Extension](https://chrome.google.com/webstore) and search for `Astro Focus Kit`. Or simply access this [link](https://chrome.google.com/webstore/detail/astro-focus-kit-extension/eoepehbjoahjnefiddgjgaenfkfbihgm?hl=pt-br)
 
   ![image](https://user-images.githubusercontent.com/51006938/205776840-3efe82bf-9822-411f-9f99-84130a488c3b.png)
 
