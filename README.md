@@ -1,10 +1,10 @@
 # :star: Astro Focus Kit :star:
 ## Description
-Astro Focus Kit is an app that helps you to deal with web procrastination and lack of focus. It is both a chrome extension and a web app.
-- The chrome extension acts as a website blocker
-- The web app acts as a task manager
+:star: Astro Focus Kit is an app that helps you to deal with web procrastination and lack of focus. It is both a chrome extension and a web app.
+- 🚫 The chrome extension is as a website blocker
+- 📆 The web app is a task manager
 
-## How start using it
+## How to start using it
 
 ### Production
 #### [**Register your account**]
@@ -18,12 +18,12 @@ Astro Focus Kit is an app that helps you to deal with web procrastination and la
   ![image](https://user-images.githubusercontent.com/51006938/205776840-3efe82bf-9822-411f-9f99-84130a488c3b.png)
 
 - Click on `Add to Chrome`
-- All good to go, you can proceed to the section [Setting the Application](https://github.com/aloefflerj/astro-focus-kit/edit/main/README.md#setting-the-application)
+- All good to go! You can now proceed to the following section: [Setting the Application](https://github.com/aloefflerj/astro-focus-kit/edit/main/README.md#setting-the-application)
 
 Alternatively, you can download the extension and load it manually:
 
-- Download the `.zip` in this link: [Astro Focus Kit Extension](https://agenciakapi.com/astro/extension.zip)
-- Save on your computer
+- Download the `.zip` on this link: [Astro Focus Kit Extension](https://agenciakapi.com/astro/extension.zip)
+- Save it on your computer
 - Unpack it
 
   ![image](https://user-images.githubusercontent.com/51006938/204973046-07e7f788-1165-4c98-8f46-e9235ee65199.png)
@@ -35,7 +35,6 @@ Alternatively, you can download the extension and load it manually:
 
   ![image](https://user-images.githubusercontent.com/51006938/204974590-f782ec44-d9b2-4e60-9e9a-92e16bbfa8e3.png)
 
-  
 - Select `Load unpacked` on the top left of the screen
 
   ![image](https://user-images.githubusercontent.com/51006938/204974667-8f81b3cc-84d4-4735-9572-a44f01ee4693.png)
@@ -48,17 +47,17 @@ Alternatively, you can download the extension and load it manually:
 
   ![image](https://user-images.githubusercontent.com/51006938/204975133-0585ef50-b213-41b0-a37d-3d3dae602530.png)
 
-#### [**Setting the Application**]
+#### [**Setting Up the Application**]
 
-- If, possible, pin the extension on chrome extension
+- If possible, pin the extension on chrome extensions
 
   ![image](https://user-images.githubusercontent.com/51006938/204975229-5c19aa53-dafc-4406-b8f3-ba7b4ee5198b.png)
   
-- Click on the extension icon and put your login and password
+- Click on the extension icon and insert your login and password
 
   ![image](https://user-images.githubusercontent.com/51006938/204975488-94c3378a-6dfd-4423-98ad-e2ddec879133.png)
   
-- You should be redirected to main dashboard page. If the login page shows up, try and refresh the page.
+- You should be redirected to main dashboard page. If the login page shows up (:bug: _bug_ 🤦), try and refresh the page.
 
 
 ## How to use it
@@ -69,7 +68,7 @@ Alternatively, you can download the extension and load it manually:
   
 - On `journal` page you can see your weeks history. (Week tasks and reasons on why you procrastinate)
 
-- On `metrics` you can see some insights about your procrastination and productivity based on websites bocked and tasks done.
+- On `metrics` you can see some insights about your procrastination and productivity based on websites blocked and tasks done.
 
   ![image](https://user-images.githubusercontent.com/51006938/204976736-045dbaa0-c87c-45e2-94bf-085c67f8874a.png)
 
@@ -77,7 +76,7 @@ Alternatively, you can download the extension and load it manually:
   - You can set websites domain to block
   
   ![image](https://user-images.githubusercontent.com/51006938/204976881-3f28f12e-9409-469a-b3ff-04be0ae50508.png)
-  - You can set the timer when you choose to procrastinate
+  - You can set the timer for when you choose to procrastinate
   
   ![image](https://user-images.githubusercontent.com/51006938/204976997-2e6ace41-a751-4034-90b4-ef60f29a4ffc.png)
 - On `quotes` page you can fetch a random motivational quote
@@ -86,7 +85,7 @@ Alternatively, you can download the extension and load it manually:
   ![image](https://user-images.githubusercontent.com/51006938/204977347-88df03be-379c-48be-9561-69773b63363e.png)
 
 ## Rules
-- If there is a pending task for today, the block extension will act
+- If there is a pending task for today, the block extension will be activated
 
   [**Web View**]
   
@@ -101,11 +100,11 @@ Alternatively, you can download the extension and load it manually:
     
       ![image](https://user-images.githubusercontent.com/51006938/204978324-d40feece-6e83-4d03-893d-184bac286fe9.png)
     - You can choose to go back to tasks page and accept the block
-    - Else you can choose to keep procrastinating. In this case you should tell a reason on why you want to do that
+    - Else you can choose to keep procrastinating. In this case you should tell a reason on why do you want to do that
     
       ![image](https://user-images.githubusercontent.com/51006938/204978578-1f9da780-1534-418b-a8c6-6551db6d447a.png)
      
-    - You will be redirected to the site you were trying to procrastinate and a timer will be shown on the extension showing you how many minutes you have until the site will be blocked again. It is a "procrastination session".
+    - You will be redirected to the site you were trying to procrastinate and a timer will be shown on the extension displaying how many minutes you have until the site will be blocked again. It is a "procrastination session".
     
       ![image](https://user-images.githubusercontent.com/51006938/204978878-3dba1e16-a30d-4082-af0a-b59506a3dfdb.png)
 
