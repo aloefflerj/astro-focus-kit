@@ -66,7 +66,7 @@ Alternatively, you can download the extension and load it manually:
   ![image](https://user-images.githubusercontent.com/51006938/204976331-1361680e-0ffd-4ee7-87bf-fe35f33c36be.png)
   - Tasks are displayed on a week board
   
-- On `journal` page you can see your weeks history. (Week tasks and reasons on why you procrastinate)
+- On `journal` page you can see your weeks history. (_Weekly tasks and reasons on why you procrastinate_)
 
 - On `metrics` you can see some insights about your procrastination and productivity based on websites blocked and tasks done.
 
