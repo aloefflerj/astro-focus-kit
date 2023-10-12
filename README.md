@@ -18,7 +18,7 @@
   ![image](https://user-images.githubusercontent.com/51006938/205776840-3efe82bf-9822-411f-9f99-84130a488c3b.png)
 
 - Click on `Add to Chrome`
-- All good to go! You can now proceed to the following section: [Setting the Application](https://github.com/aloefflerj/astro-focus-kit/edit/main/README.md#setting-the-application)
+- All good to go! You can now proceed to the following section: [Setting Up the Application](https://github.com/aloefflerj/astro-focus-kit/edit/main/README.md#setting-the-application)
 
 Alternatively, you can download the extension and load it manually:
 
